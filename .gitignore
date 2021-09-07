@@ -24,3 +24,6 @@ perf_tracker-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Ignore hbbft_perf json files
+/hbbft_perf/
